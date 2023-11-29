@@ -1,0 +1,55 @@
+{
+    "ids": [
+        [
+            "doc6",
+            "doc1",
+            "doc4",
+            "doc2",
+            "doc5",
+            "doc3"
+        ]
+    ],
+    "distances": [
+        [
+            0.24277886748313904,
+            0.34517011046409607,
+            0.7425424456596375,
+            0.7797686457633972,
+            1.128084421157837,
+            1.5025620460510254
+        ]
+    ],
+    "metadatas": [
+        [
+            {
+                "source": "google-docs"
+            },
+            {
+                "source": "notion"
+            },
+            {
+                "source": "google-docs"
+            },
+            {
+                "source": "google-docs"
+            },
+            {
+                "source": "notion"
+            },
+            {
+                "source": "notion"
+            }
+        ]
+    ],
+    "embeddings": null,
+    "documents": [
+        [
+            "Whale Shark",
+            "Leopard Shark",
+            "Dolphin",
+            "Blue Whale",
+            "Seal",
+            "Great White"
+        ]
+    ]
+}
